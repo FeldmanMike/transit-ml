@@ -7,7 +7,7 @@ Ticket to Ride Where? is a machine learning project that predicts public transit
 In your preferred directory, clone the repository using git:
 
 ```bash
-git clone https://github.com/ndignazio/transit-ml.git
+git clone https://github.com/FeldmanMike/transit-ml.git
 ```
 Install required packages in a virtual environment:
 
